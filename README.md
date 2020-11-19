@@ -50,3 +50,15 @@ First enable ligatures and then check this box in font settings (Right click > F
 1. Download the desired OTF file
 2. Open the "Font Book" application
 3. Select "File" > "Add Font" and select the downloaded OTF file
+
+# ItMarki's addition
+
+I have added a total of 6 glyphs of words from toki ma. They are:
+* san (three)
+* po (four)
+* ten (ten)
+* kenta (hundred)
+* mila (thousand)
+* mijon (million)
+
+They are not official and except for mijon, they are made by me.
