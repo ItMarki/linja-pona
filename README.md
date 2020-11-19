@@ -62,3 +62,5 @@ I have added a total of 6 glyphs of words from toki ma. They are:
 * mijon (million)
 
 They are not official and except for mijon, they are made by me.
+
+The font file is linja-pona-sin-4.2.otf
