@@ -63,4 +63,6 @@ I have added a total of 6 glyphs of words from toki ma. They are:
 
 They are not official and except for mijon, they are made by me.
 
-The font file is linja-pona-sin-4.2.otf
+The font file is linja-pona-sin-4.2.otf.
+
+Note that specific ligatures for these glyphs haven't been made, so luka-san looks different luka-tu.
